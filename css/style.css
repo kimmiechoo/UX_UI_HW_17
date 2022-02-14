@@ -1,0 +1,32 @@
+span.a{
+    display:inline-block;
+    vertical-align:top;
+}
+
+header{
+    width: 23%;
+    padding: 1%
+}
+
+nav{
+    width: 73%;
+    padding: 1%;
+}
+ul{
+    margin-left: auto;
+}
+inline-block{
+    text-align: center;
+}
+
+herolmg{
+    height: 600px;
+    padding: 25px;
+}
+body{
+    width:500px;
+    margin: 0 auto;
+}
+footer{
+    background-color: 373738;
+}
