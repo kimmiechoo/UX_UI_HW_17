@@ -3,10 +3,10 @@ head{
     width: 50%;
     margin: auto;
 }
-inline-block{
-    margin-top: 50%;
+li{
     font: playfair display;
     align-content: center;
+    ;
 }
 body{
     background-color: #FBF1F4;
