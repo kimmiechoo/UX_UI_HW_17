@@ -1,32 +1,13 @@
-span.a{
-    display:inline-block;
-    vertical-align:top;
-}
-
-header{
-    width: 23%;
-    padding: 1%
-}
-
-nav{
-    width: 73%;
-    padding: 1%;
-}
-ul{
-    margin-left: auto;
+head{
+    font: playfair display;
+    width: 50%;
+    margin: auto;
 }
 inline-block{
-    text-align: center;
-}
-
-herolmg{
-    height: 600px;
-    padding: 25px;
+    margin-top: 50%;
+    font: playfair display;
+    align-content: center;
 }
 body{
-    width:500px;
-    margin: 0 auto;
-}
-footer{
-    background-color: 373738;
+    background-color: #FBF1F4;
 }
